@@ -1,1 +1,2 @@
-I'm woffle, commonly reffered to as Woffle, but mostly known as Waffle.
+I do coding sometimes I guess...
+I mostly work with Python, but I have expierence with C++, Lua and JavaScript.
